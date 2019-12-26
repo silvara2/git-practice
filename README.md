@@ -7,6 +7,9 @@
 - git add: Add changes from working directory to staging area
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 - git log: Show a history (aka "log") of project commits
 - git show: Show a single commit
 - git diff: Show the difference between commits, the working directory, and the staging area
